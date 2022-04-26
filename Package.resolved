@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "PackageSpike",
+        "repositoryURL": "https://github.com/mattpricefi/DualPackageSpike.git",
+        "state": {
+          "branch": "main",
+          "revision": "dff922dd7b8bdf9fb5062521caebdb691c27933c",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
